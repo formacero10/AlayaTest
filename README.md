@@ -28,3 +28,6 @@ Flotation Column 07 Level
 
 
 Dataset link can be found within this repository
+
+Python code was created using Jupyter Notebooks on top of Anaconda 1.9.12, Python versión is 3.8.5
+
